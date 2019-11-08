@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fruits">
+        <item>7:00~09:00</item>
+        <item>11:00~12:00</item>
+        <item>12:00~13:00</item>
+        <item>13:00~14:00</item>
+        <item>18:00~19:00</item>
+        <item>19:00~20:00</item>
+    </array>
+</resources>

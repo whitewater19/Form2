@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">吃吃吃</string>
+    <string name="chk1">喝奶茶</string>
+    <string name="chk2">吃甜不辣</string>
+    <string name="chk3">巧克力</string>
+    <string name="chk4">米血</string>
+    <string name="chk5">百頁豆腐</string>
+    <string name="ra1">要走走</string>
+    <string name="ra2">就睡覺</string>
+    <string name="submit">確定送出</string>
+</resources>
